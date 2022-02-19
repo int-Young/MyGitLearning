@@ -1,0 +1,2 @@
+# pay model
+name = 'Min'
