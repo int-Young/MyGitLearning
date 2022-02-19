@@ -1,2 +1,4 @@
+# yll-windows
+num1 = 1000
 
-num1 = 100
+num2 = 200
